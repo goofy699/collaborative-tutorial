@@ -1,7 +1,7 @@
 def div(a,b):
     return a/b
 a = float(input("Enter numerator: "))
-b = float(input("ENter denominator:"))
+b = float(input("Enter denominator:"))
 
 if b==0:
     print("Error:division by zero is not possible")
